@@ -9,7 +9,7 @@ module.exports = {
     minArgsB: 1,
     permissions: 'KICK_MEMBERS',
     requiredRoles: roles_required_kick,
-    callback: async (msg, arguments) => {
+    callback: async (msg, args) => {
         const userTarget = msg.mentions.members.first()
 
         if (!userTarget) {

@@ -9,13 +9,13 @@ module.exports = {
     minArgsB: 1,
     permissions: 'MANAGE_ROLES',
     requiredRoles: roles_required_remove_role,
-    callback: async (msg, arguments) => {
+    callback: async (msg, args) => {
         const userTarget = msg.mentions.members.first() ||
-                       msg.guild.members.cache.find((m) => m.user.tag === arguments[0]) ||
-                       msg.guild.members.cache.find((m) => m.id === arguments[0])
+                       msg.guild.members.cache.find((m) => m.user.tag === args[0]) ||
+                       msg.guild.members.cache.find((m) => m.id === args[0])
 
-        const roleTarget = msg.guild.roles.cache.find((r) => r.name == arguments[1]) ||
-                     msg.guild.roles.cache.find((r) => r.id == arguments[1]) ||
+        const roleTarget = msg.guild.roles.cache.find((r) => r.name == args[1]) ||
+                     msg.guild.roles.cache.find((r) => r.id == args[1]) ||
                      msg.mentions.roles.first()
         
         if (!userTarget) {
