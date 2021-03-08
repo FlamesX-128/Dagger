@@ -4,15 +4,15 @@ Ramen Bot is a bot focused on defense and economy.
 ## Commands
 #### Private:
 
-  add-role
-  remove-role
-  ban
-  unban
-  kick
-  defense
+ +add-role<br>
+ +remove-role<br>
+ +ban<br>
+ +unban<br>
+ +kick<br>
+ +defense<br>
 
 #### Public:
 
-  ping
+ +ping
 
 ### This is not finished 
