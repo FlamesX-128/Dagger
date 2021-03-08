@@ -9,7 +9,7 @@ Ramen Bot is a bot focused on defense and economy.
  +ban<br>
  +unban<br>
  +kick<br>
- +defense(disabled for the public)<br>
+ +defense(disabled)<br>
 
 #### Everyone:
 
