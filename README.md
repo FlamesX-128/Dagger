@@ -16,3 +16,6 @@ Ramen Bot is a bot focused on defense and economy.
  +ping
 
 ### This is not finished 
+
+
+###### Command-base and Read-commands based on >> Worn Off Keys <<
