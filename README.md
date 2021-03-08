@@ -2,7 +2,7 @@
 Ramen Bot is a bot focused on defense and economy.
 
 ## Commands
-#### Private:
+#### Moderator:
 
  +add-role<br>
  +remove-role<br>
@@ -11,7 +11,7 @@ Ramen Bot is a bot focused on defense and economy.
  +kick<br>
  +defense(disabled for the public)<br>
 
-#### Public:
+#### Everyone:
 
  +ping
 
