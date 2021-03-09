@@ -1,5 +1,5 @@
 # Ramen-s-Bot
-Ramen Bot is a bot focused on defense and economy.
+Ramen Bot is a bot focused on defense and rols.
 
 ## Commands
 #### Moderator:
