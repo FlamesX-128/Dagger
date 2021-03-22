@@ -18,7 +18,6 @@ module.exports = {
         //This is not necessary 
         if (user != "347787075308748801") {
             return msg.reply('YOU NOT ARE FlamesX-128!!')
-        
         }
         
         if (args[0] === 'init') {
