@@ -11,7 +11,7 @@ Ramen Bot is a bot focused on defense and rols.
  unban <br>
  kick <br>
  warn <br>
- defense <br>
+ defense (beta => contains errors) <br>
  
  Public: <br>
  ping <br>
