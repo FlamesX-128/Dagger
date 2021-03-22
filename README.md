@@ -1,21 +1,19 @@
 # Ramen-s-Bot
 Ramen Bot is a bot focused on defense and rols.
 
-## Commands
-#### Moderator:
+## This is not finished
 
- +add-role<br>
- +remove-role<br>
- +ban<br>
- +unban<br>
- +kick<br>
- +defense(disabled)<br>
-
-#### Everyone:
-
- +ping
-
-### This is not finished 
-
+### Commands
+ Private:
+ add-role
+ remove-role
+ ban
+ unban
+ kick
+ warn
+ defense
+ 
+ Public:
+ ping
 
 ###### Command-base and Read-commands based on >> Worn Off Keys <<
