@@ -10,11 +10,6 @@ const UserBody = new Schema({
         type: Number,
         required: true
     },
-
-    Weapon_Pistol: {
-        type: String,
-        required: false
-    }
 })
 
 module.exports = model('User', UserBody)
