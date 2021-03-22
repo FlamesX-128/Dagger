@@ -14,7 +14,8 @@ module.exports = {
         const user = msg.author;
 
         let counter = 0;
-
+        
+        //This is not necessary 
         if (user != "347787075308748801") {
             return msg.reply('YOU NOT ARE FlamesX-128!!')
         
