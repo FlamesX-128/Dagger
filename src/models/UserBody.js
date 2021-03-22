@@ -9,7 +9,7 @@ const UserBody = new Schema({
     ServerID: {
         type: Number,
         required: true
-    },
+    }
 })
 
 module.exports = model('User', UserBody)
