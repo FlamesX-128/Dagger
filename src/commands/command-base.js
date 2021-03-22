@@ -97,7 +97,7 @@ module.exports = (client, commandOptions) => {
 
                 for (const requiredRole of requiredRoles) {
                     const role = guild.roles.cache.find(
-                        (role) => role.name === requiredRoles
+                        (role) => role.name === requiredRole
                     )
 
                     if (!role || !member.roles.cache.has(role.id)) {

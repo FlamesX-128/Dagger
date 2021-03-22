@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 module.exports = {
     commands: 'ping',
-    callback: async (msg, arguments) => {
+    callback: async (msg, args) => {
         const user = msg.author;
         const pingembed = new Discord.MessageEmbed()
         .setTitle("Ramen's Bot | Latency command")
