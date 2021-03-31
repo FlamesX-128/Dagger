@@ -23,4 +23,5 @@ export let requiredRoles_kick: string[] = [];
 // > > > Warn < < < //
 export let requiredRoles_warn: string[] = [];
 
+// > > > Anti-raid < < < //
 export let channels_blocked: string[];
