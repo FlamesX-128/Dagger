@@ -1,19 +1,56 @@
-# Ramen-s-Bot
-Ramen Bot is a bot focused on defense and rols.
+# **Ramen's Bot**
+## **English:**
+It is a bot focused on roles and defense. 
 
-## This is not finished
+### **Commands:**
 
-### Commands
- Private: <br>
- add-role <br>
- remove-role <br>
- ban <br>
- unban <br>
- kick <br>
- warn <br>
- defense (beta => contains errors) <br>
- 
- Public: <br>
- ping <br>
+    !> = prefix depending on the configuration.
+    [] = required argument.
+    () = optional argument depending on the configuration.
+    <> = optional argument
 
-###### Command-base and Read-commands based on >> Worn Off Keys <<
+#### **Moderator:**
+
+    !>ban           [user]   (reason)
+    !>unban         [user]   (reason)
+    !>kick          [user]   (reason)
+    !>warn          [user]   (reason)
+    !>nuke          [amount]
+    !>add-role      [user]   [role]
+    !>remove-role   [user]   [role]
+
+#### **Public:**
+
+    !>ping
+
+
+### **IT IS NOT FINISHED**
+
+#
+
+## **Español:**
+Es un bot enfocado hacia los roles y la defensa.
+
+### **Comandos:**
+
+    !> = prefix dependiendo de la configuracion.
+    [] = argumento requerido.
+    () = argumento opcional dependiendo de la configuracion.
+    <> = argumento opcional.
+
+#### **Moderador:**
+
+    !>ban           [usuario]   (razon)
+    !>unban         [usuario]   (razon)
+    !>kick          [usuario]   (razon)
+    !>warn          [usuario]   (razon)
+    !>nuke          [cantidad]
+    !>add-role      [usuario]   [rol]
+    !>remove-role   [usuario]   [rol]
+
+#### **Publico:**
+
+    !>ping
+
+
+### **NO ESTA TERMINADO**
