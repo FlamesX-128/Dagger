@@ -18,6 +18,7 @@ It is a bot focused on roles and defense.
     !>nuke          [amount]
     !>add-role      [user]   [role]
     !>remove-role   [user]   [role]
+    !>defense       [type]
 
 #### **Public:**
 
@@ -47,6 +48,7 @@ Es un bot enfocado hacia los roles y la defensa.
     !>nuke          [cantidad]
     !>add-role      [usuario]   [rol]
     !>remove-role   [usuario]   [rol]
+    !>defense       [tipo]
 
 #### **Publico:**
 
