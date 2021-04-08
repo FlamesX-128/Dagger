@@ -1,15 +1,15 @@
 {
   "name": "Dagger",
   "version": "1.0.0",
-  "description": "It is a bot focused on roles and defense.",
-  "main": "index.js",
+  "description": "",
+  "main": "JS/index.js",
   "scripts": {
     "build": "tsc",
-    "start": "node js/index.js",
+    "start": "node JS/index.js",
     "dev": "nodemon -e ts --exec \"npm run build && npm start\""
   },
   "keywords": [],
-  "author": "FlamesX-128",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^14.14.37",
@@ -17,6 +17,7 @@
     "nodemon": "^2.0.7"
   },
   "dependencies": {
-    "discord.js": "^12.5.2"
+    "@flamesx_128/discord.js_cmds": "^2.1.0",
+    "discord.js": "^12.5.3"
   }
 }
