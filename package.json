@@ -14,10 +14,11 @@
   "devDependencies": {
     "@types/node": "^14.14.37",
     "dotenv": "^8.2.0",
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.7",
+    "typescript": "^4.2.4"
   },
   "dependencies": {
-    "@flamesx_128/discord.js_cmds": "^2.1.0",
+    "@flamesx_128/discord.js_cmds": "^3.0.0",
     "discord.js": "^12.5.3"
   }
 }
